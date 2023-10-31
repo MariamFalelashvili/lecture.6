@@ -69,13 +69,6 @@ h3{
 	border-radius: 0px 0px 5px 5px;
 	position: relative;
 }
-.img-3{
-	width: 362px;
-	height: 171px;
-	border-radius: 0px 0px 5px 5px;
-	display: block;
-	position: relative;
-}
 h4{
 	position: absolute;
 	bottom: 67px;
@@ -108,4 +101,41 @@ h6{
 	vertical-align: middle;
 	bottom: 41px;
 	left: 67px;
+}
+.container2{
+	margin: 0 auto;
+	width: 1175px;
+	margin-top: 57px;
+}
+.card1{
+	display: inline-block;
+	width: 758px;
+	vertical-align: middle;
+	margin-top: -20px;
+}
+.img-2{
+	width: 758px;
+	height: 430px;
+	border-radius: 5px;
+	margin-bottom: 30px;
+}
+.img-4{
+	width: 758px;
+	height: 430px;
+	border-radius: 5px;
+}
+.card2{
+	display: inline-block;
+	bottom: 2px solid black;
+	width: 362px;
+	vertical-align: middle;
+	margin-left: 45px;
+	margin-top: 20px;
+}
+.img-3{
+	width: 362px;
+	height: 212px;
+	border-radius: 5px;
+	margin-bottom: 98px;
+
 }
