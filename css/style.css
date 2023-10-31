@@ -1,0 +1,111 @@
+body{
+	 background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
+.container{
+	width: 1167px;
+	margin: 0 auto;
+	margin-top: 21px;
+	margin-bottom: 42px;
+}
+a{
+	color: #000000;
+	font-family: 'Roboto Serif', serif;
+	font-size: 11px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	margin-right: 35px;
+}
+li{
+	display: inline-block;
+}
+ul{
+	display: inline-block;
+}
+nav{
+	display: inline-block;
+	vertical-align: middle;
+}
+.img-1{
+	display: inline-block;
+	vertical-align: middle;
+}
+h2{
+	color: #000;
+	font-family: Roboto;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.card{
+	position: relative;
+	width: 362px;
+	height: 357px;
+	margin-top: 27px;
+	display: inline-block;
+	margin-right: 20px;
+}
+.parent{
+	width: 362px;
+	height: 186px;
+	border-radius: 5px 5px 0px 0px;
+	position: relative;
+}
+h3{
+	position: absolute;
+	color: #FFF;
+	font-family: Roboto;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	top: 32px;
+	left: 41px;
+}
+.parent1{
+	width: 362px;
+	height: 186px;
+	border-radius: 0px 0px 5px 5px;
+	position: relative;
+}
+.img-3{
+	width: 362px;
+	height: 171px;
+	border-radius: 0px 0px 5px 5px;
+	display: block;
+	position: relative;
+}
+h4{
+	position: absolute;
+	bottom: 67px;
+	left: 37px;
+	width: 238px;
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+}
+.time{
+	position: absolute;
+	width: 16px;
+	height: 16px;
+	bottom: 40px;
+	left: 40px;
+	vertical-align: middle;
+}
+h6{
+	color: #8A8787;
+	font-family: 'Roboto', sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: normal;
+	position: absolute;
+	display: inline-block;
+	vertical-align: middle;
+	bottom: 41px;
+	left: 67px;
+}
