@@ -25,6 +25,10 @@ ul{
 nav{
 	display: inline-block;
 	vertical-align: middle;
+	border: 2px solid black;
+	position: fixed;
+	top: 0;
+	z-index: 2;
 }
 .img-1{
 	display: inline-block;
